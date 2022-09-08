@@ -1,4 +1,4 @@
-# cupping-QCM-Functionality
+# cupping-QCM
 QCM functionality with laravel + Bootstrap 
 Admin + user Panels
 
