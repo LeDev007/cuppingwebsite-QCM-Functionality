@@ -1,6 +1,6 @@
 # cupping-QCM
 QCM functionality with laravel + Bootstrap 
-Admin + user Panels
+Admin + user Panel
 
 for the code sourse please contact lehmadi10@outlook.fr
 
